@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./aburbeconditalib00livyuoft_0006.png"; bbox 0 0 1747 2620; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 455 1078 1331 1174">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 455 1078 1331 1174">
+     <span class='ocr_line' id='line_1_1' title="bbox 606 1078 1188 1120; baseline -0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 606 1081 793 1115; x_wconf 85' lang='lat' dir='ltr'>HENRY</span> <span class='ocrx_word' id='word_1_2' title='bbox 819 1078 1059 1120; x_wconf 81' lang='lat' dir='ltr'>FROWDE,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1086 1078 1188 1113; x_wconf 77' lang='lat' dir='ltr'>MA.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 455 1147 1331 1174; baseline -0.003 0"><span class='ocrx_word' id='word_1_4' title='bbox 455 1151 663 1174; x_wconf 77' lang='lat' dir='ltr'>PUBLISHER</span> <span class='ocrx_word' id='word_1_5' title='bbox 687 1151 734 1174; x_wconf 77' lang='lat' dir='ltr'>To</span> <span class='ocrx_word' id='word_1_6' title='bbox 758 1150 833 1174; x_wconf 76' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 857 1148 1084 1172; x_wconf 78' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_8' title='bbox 1108 1148 1154 1171; x_wconf 78' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_9' title='bbox 1178 1147 1331 1171; x_wconf 81' lang='lat' dir='ltr'>OXFORD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 528 1209 1261 1303">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 528 1209 1261 1303">
+     <span class='ocr_line' id='line_1_3' title="bbox 528 1209 1261 1244; baseline -0.007 -5"><span class='ocrx_word' id='word_1_10' title='bbox 528 1212 713 1243; x_wconf 81' lang='lat' dir='ltr'><strong>LONDON,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 738 1210 1002 1244; x_wconf 86' lang='lat' dir='ltr'><strong>EDINBURGH,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1028 1209 1122 1236; x_wconf 81' lang='lat' dir='ltr'>NEW</span> <span class='ocrx_word' id='word_1_13' title='bbox 1148 1209 1261 1236; x_wconf 81' lang='lat' dir='ltr'><strong>YORK</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 591 1273 1182 1303; baseline -0.005 -2"><span class='ocrx_word' id='word_1_14' title='bbox 591 1275 786 1303; x_wconf 84' lang='lat' dir='ltr'><strong>TORONTO</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 811 1275 897 1301; x_wconf 88' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_16' title='bbox 924 1273 1182 1300; x_wconf 85' lang='lat' dir='ltr'>MELBOURNE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
